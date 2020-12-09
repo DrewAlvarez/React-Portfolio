@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
     return (
-        <main className="container">
+        <main className="container" style={{marginTop: "2rem"}}>
             <h2>Contact Information</h2>
             <h3>Andrew Alvarez</h3>
             <h4>Address</h4>
