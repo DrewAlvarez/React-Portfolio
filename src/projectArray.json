@@ -1,0 +1,66 @@
+[
+    {
+        "appName": "Movie Binge",
+        "imgName": "movieBinge",
+        "appUrl": "https://drewalvarez.github.io/Project-Movie-Binge/",
+        "appRepo": "https://github.com/DrewAlvarez/Project-Movie-Binge",
+        "description": "An application allows the userto pick and choose out of top 50 movies and shows you wish to view at a later date. The use of AJAX calls and local storage were implemented",
+        "groupProject": true
+    },
+    {
+        "appName": "Pizza Claw",
+        "imgName": "pizzaClaw",
+        "appUrl": "https://pizzaclawdrew.herokuapp.com/",
+        "appRepo": "https://github.com/Feda2020/Project2",
+        "description": "An application that mimics a small pizza shop to offer online ordering for customers. The use of user authentication and an SQL database was implemented.",
+        "groupProject": true
+    },
+    {
+        "appName": "Weather Dashboard",
+        "imgName": "weatherDashboard",
+        "appUrl": "https://drewalvarez.github.io/HW-6-Weather-Dashboard/",
+        "appRepo": "https://github.com/DrewAlvarez/HW-6-Weather-Dashboard",
+        "description": "An application that lets the user search the current and 5 day forecast of a particular world city",
+        "groupProject": false
+    },
+    {
+        "appName": "Code Quiz",
+        "imgName": "codeQuiz",
+        "appUrl": "https://drewalvarez.github.io/HW-4-Code-Quiz/",
+        "appRepo": "https://github.com/DrewAlvarez/HW-4-Code-Quiz/",
+        "description": "An application that presents a small quick asking common beginner web development coder might know.",
+        "groupProject": false
+    },
+    {
+        "appName": "Work Day Scheduler",
+        "imgName": "workDayScheduler",
+        "appUrl": "https://drewalvarez.github.io/HW-5-Work_Day_Scheduler/",
+        "appRepo": "https://github.com/DrewAlvarez/HW-5-Work_Day_Scheduler/",
+        "description": "",
+        "groupProject": false
+    },
+    {
+        "appName": "Password Generator",
+        "imgName": "pwGenerator",
+        "appUrl": "https://drewalvarez.github.io/HW-3_Password-Generator/",
+        "appRepo": "https://github.com/DrewAlvarez/HW-3_Password-Generator/",
+        "description": "",
+        "groupProject": false
+    },
+    {
+        "appName": "Refractor/Accessibility Assignment",
+        "imgName": "hwRefractor",
+        "appUrl": "https://drewalvarez.github.io/HW-1-Refractory-Homework/",
+        "appRepo": "https://github.com/DrewAlvarez/HW-1-Refractory-Homework/",
+        "description": "",
+        "groupProject": false
+    },
+    {
+        "appName": "Template Engine",
+        "imgName": "teamImg",
+        "appUrl": "#",
+        "appRepo": "https://github.com/DrewAlvarez/HW-10-Template-Engine",
+        "description": "",
+        "groupProject": false
+    }
+]

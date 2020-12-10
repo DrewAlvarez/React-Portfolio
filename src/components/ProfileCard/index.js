@@ -8,8 +8,8 @@ export default function ProfileCard() {
             <div className="card-body text-white">
                 <h5 className="card-title">Andrew Alvarez</h5>
                 <p className="card-text">Welcome to a collection of my applications. This page features group projects I have worked on. Click the images to view the app or repository. Click below for more projects and Personal information.</p>
-                <a href="about" class="btn btn-primary" style={{width: "90%", marginBottom: ".25rem"}}>More about me</a>
-                <a href="contact" class="btn btn-primary" style={{width: "90%"}}>Contact Me</a>
+                <a href="about" className="btn btn-primary" style={{width: "90%", marginBottom: ".25rem"}}>More about me</a>
+                <a href="contact" className="btn btn-primary" style={{width: "90%"}}>Contact Me</a>
             </div>
         </div>
     )
