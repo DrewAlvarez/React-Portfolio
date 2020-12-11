@@ -5,11 +5,12 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home"
 import About from "./pages/About"
 import Contact from "./components/Contact";
+import Resume from "./pages/Resume"
 import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Nav />
       <Switch>
         <Route exact path="/">
@@ -20,6 +21,9 @@ function App() {
         </Route>
         <Route exact path="/contact">
           <Contact />
+        </Route>
+        <Route exact path="/resume">
+          <Resume />
         </Route>
       </Switch>
       <Footer />
