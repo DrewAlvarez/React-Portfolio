@@ -1,3 +1,29 @@
+main{
+    margin: 2rem 0 5rem 0;
+}
+
 p{
     font-weight: bolder;
+}
+
+.profileEl{
+    float: left;
+    margin-bottom: 2rem;
+}
+
+.projectEl{
+    float: left;
+    width: 50rem;
+    margin-bottom: 5rem;
+    display: block
+}
+
+.projectCards{
+    display: inline-block;
+}
+
+@media screen and (max-width: 1312px){
+    .projectEl{
+        width: 30rem
+    }
 }

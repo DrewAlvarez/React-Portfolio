@@ -1,5 +1,6 @@
 import React from "react";
 import "./index.css"
+
 export default function About() {
     return (
         <main className="container" style={{marginTop: "2rem"}}>
