@@ -14,13 +14,14 @@ p{
 
 .projectEl{
     float: left;
-    width: 50rem;
-    margin: 0 0 2rem 5rem;
+    width: 60rem;
+    margin: 0 0 5rem 2rem;
     display: block
 }
 
 .projectCards{
     display: inline-block;
+    margin: 0 2rem 1rem 0;
 }
 
 @media screen and (max-width: 1312px){
