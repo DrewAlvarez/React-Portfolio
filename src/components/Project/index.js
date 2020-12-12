@@ -9,6 +9,8 @@ export default function Project(props) {
                     <img src={`images/${result.imgName}.png`} className="card-img-top" alt={result.imgName}/>
                     <div className="card-body">
                         <p className={"card-text"}>{result.description}</p>
+                    </div>
+                    <div className="car-body">
                         <a href={result.appUrl} className="btn btn-primary" style={{width: "90%", marginBottom: ".25rem"}}>App URL</a>
                         <a href={result.appRepo} className="btn btn-primary" style={{width: "90%"}}>Repo URL</a>
                     </div>
