@@ -4,7 +4,7 @@ export default function Project(props) {
     return (
         <div>
             {props.results.map(result => (
-                <div className="card border-primary mb-3" style={{maxWidth: "20rem", float: "left", marginLeft: "2rem"}}>
+                <div className="card border-primary mb-3" style={{maxWidth: "20rem", height:"40rem", float: "left", marginLeft: "2rem"}}>
                     <div className="card-header">{result.appName}</div>
                     <img src={`images/${result.imgName}.png`} className="card-img-top" alt={result.imgName}/>
                     <div className="card-body">
