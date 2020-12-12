@@ -11,8 +11,8 @@ export default function Project(props) {
                         <p className={"card-text"}>{result.description}</p>
                     </div>
                     <div className="car-body">
-                        <a href={result.appUrl} className="btn btn-primary" style={{width: "90%", marginBottom: ".25rem"}}>App URL</a>
-                        <a href={result.appRepo} className="btn btn-primary" style={{width: "90%"}}>Repo URL</a>
+                        <a href={result.appUrl} className="btn btn-primary" style={{width: "90%", margin: "0 0 .25rem 1rem"}}>App URL</a>
+                        <a href={result.appRepo} className="btn btn-primary" style={{width: "90%", margin: "0 0 1rem 1rem"}}>Repo URL</a>
                     </div>
                 </div>
             ))}
