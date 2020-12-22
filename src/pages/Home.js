@@ -44,7 +44,7 @@ class Home extends Component {
                         <ProfileCard />
                     </div>
                     <div className="projectEl">
-                        <div>
+                        <div style={{display: "block"}}>
                             <ProjectButtons handleOnClick={this.handleViewGroupProjects} btnName="View Group Projects" />
                             <ProjectButtons handleOnClick={this.handleViewAllProjects} btnName="View Solo Projects" />
                         </div>
