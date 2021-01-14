@@ -10,16 +10,16 @@ export default function Nav(props) {
         <div className="collapse navbar-collapse" id="navbarNav" style={{paddingLeft: "10%"}}>
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
+              <a className="nav-link" href="#/">Home <span className="sr-only">(current)</span></a>
             </li>
             <li className="nav-item">
-                <a className="nav-link" href="about">About</a>
+                <a className="nav-link" href="#/about">About</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="resume">Resumé</a>
+              <a className="nav-link" href="#/resume">Resumé</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="contact">Contact</a>
+              <a className="nav-link" href="#/contact">Contact</a>
             </li>
           </ul>
         </div>
