@@ -10,7 +10,7 @@
     {
         "appName": "Getaway Guru",
         "imgName": "getawayGuru",
-        "appUrl": "https://getawatyguru.herokuapp.com/",
+        "appUrl": "https://getawayguru.herokuapp.com/",
         "appRepo": "https://github.com/kalmand1057/Project3",
         "description": "This project is currently under development, It is a web app that allows the user plan their vacation.",
         "groupProject": true
